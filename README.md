@@ -22,7 +22,6 @@ Trabajo con tecnologías como **Kotlin, Flutter y Swift**.
 
 
 ## Github Stats 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Strike32GT&theme=merko&locale=es&short_numbers=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Strike32GT&theme=merko&hide_border=true&locale=es&short_numbers=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strike32GT&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
