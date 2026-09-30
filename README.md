@@ -1,4 +1,4 @@
-# Hola, soy Jefferson
+# Hola, soy Strike32GT
 
 <p align="right">
   <img src="./assets/profile-avatar.webp" alt="Foto de perfil de Jefferson Bautista" width="140" />
